@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <p align="center">
   <img src="https://i.pinimg.com/originals/fc/ed/9d/fced9df5cc4a4b0a50c219007cf12541.gif" width="700"/>
 </p>
@@ -37,13 +38,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=null01010&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null01010&layout=compact&theme=radical)
 
----
 
-<style>
-  body {
-    background-color: #000000;
-    color: white;
-  }
-</style>
+
   
 
