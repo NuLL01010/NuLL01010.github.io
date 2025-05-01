@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 <p align="center">
   <img src="https://i.pinimg.com/originals/fc/ed/9d/fced9df5cc4a4b0a50c219007cf12541.gif" width="700"/>
 </p>
